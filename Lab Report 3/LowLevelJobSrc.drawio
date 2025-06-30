@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="n7q8RiMJpL6ZGziPGPFM">
+    <mxGraphModel dx="1775" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d-4CkyFz6fmd91s_HHET-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="140" width="540" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="190" width="400" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1704" y="517" width="736" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="260" width="560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-41" value="Semantic Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="423" width="155" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-35" value="Job Searching Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2024" y="30" width="215" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-36" value="Search Processing Unit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2021" y="156" width="221" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-37" value="Query Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="284" width="158" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-38" value="Filter Application" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2009" y="540" width="184" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-39" value="Ranking &amp; Sorting" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2038" y="272" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-40" value="Keyword Extraction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="423" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-42" value="Spell Correction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="423" width="131" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-43" value="Filter by Location" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="679" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-44" value="Filter by Salary Range" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1882" y="679" width="183" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-45" value="Filter by Job Type" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2082" y="679" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-46" value="Filter by Experience Level" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2264" y="679" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-47" value="Relevance Scoring" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1909" y="410" width="129" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-48" value="Machine Learning Ranking" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2054" y="410" width="155" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-49" value="Personalized Job Prioritization" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2225" y="410" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-50" value="Job Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="284" width="155" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-51" value="External Job API Integration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="269" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-52" value="Job Listings Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="416" width="222" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-53" value="User Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="510" width="162" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-54" value="Display Search Results" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2532" y="610" width="218" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-60" value="Receives Input" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-35" target="d-4CkyFz6fmd91s_HHET-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-36" target="d-4CkyFz6fmd91s_HHET-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-36" target="d-4CkyFz6fmd91s_HHET-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-36" target="d-4CkyFz6fmd91s_HHET-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-37" target="d-4CkyFz6fmd91s_HHET-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-37" target="d-4CkyFz6fmd91s_HHET-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-37" target="d-4CkyFz6fmd91s_HHET-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-38" target="d-4CkyFz6fmd91s_HHET-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-38" target="d-4CkyFz6fmd91s_HHET-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-38" target="d-4CkyFz6fmd91s_HHET-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-38" target="d-4CkyFz6fmd91s_HHET-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-39" target="d-4CkyFz6fmd91s_HHET-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-39" target="d-4CkyFz6fmd91s_HHET-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-39" target="d-4CkyFz6fmd91s_HHET-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-36" target="d-4CkyFz6fmd91s_HHET-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-36" target="d-4CkyFz6fmd91s_HHET-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-76" value="Fetch Matching Jobs" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-50" target="d-4CkyFz6fmd91s_HHET-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-77" value="Aggregate External Jobs" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-51" target="d-4CkyFz6fmd91s_HHET-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-78" value="Send Final List" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-52" target="d-4CkyFz6fmd91s_HHET-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-4CkyFz6fmd91s_HHET-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="d-4CkyFz6fmd91s_HHET-53" target="d-4CkyFz6fmd91s_HHET-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="cFEyl-bvXGfivQD3oI_3">
+    <mxGraphModel dx="1909" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-1" value="User" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="458" y="20" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-2" value="User Authentication" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="418" y="120" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-3" value="Authentication Server" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="429" y="210" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-4" value="User Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="408.5" y="390" width="160.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-5" value="Profile Creation/Update" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="523" width="173" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-6" value="CV Upload &amp; Parsing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="523" width="205" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-8" value="CV Parsing Engine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="630" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-9" value="User Preference Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="523" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-10" value="Job Recommendation Engine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="910" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-11" value="Job Searching Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="910" width="154" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-12" value="Register/Login" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-1" target="aCuNmFbfP8FAJ7ylMY8u-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-13" value="Validate Credentials" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-2" target="aCuNmFbfP8FAJ7ylMY8u-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-14" value="Access Granted" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-3" target="aCuNmFbfP8FAJ7ylMY8u-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-15" value="Enter Profile Info" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-4" target="aCuNmFbfP8FAJ7ylMY8u-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-16" value="Upload CV" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-4" target="aCuNmFbfP8FAJ7ylMY8u-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-17" value="Save Profile Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-5">
+          <mxGeometry x="-0.1593" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="750" />
+            </Array>
+            <mxPoint x="446.25" y="814.6000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-18" value="Extract Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-6" target="aCuNmFbfP8FAJ7ylMY8u-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-19" value="Store Extracted Info" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="458.0799999999999" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-20" value="Set Preferences" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-4" target="aCuNmFbfP8FAJ7ylMY8u-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-21" value="Save Preferences" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.93;entryY=0;rounded=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="603.4200000000001" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-22" value="View/Edit Profile" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.24;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aCuNmFbfP8FAJ7ylMY8u-4">
+          <mxGeometry x="0.3133" y="1" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="440" />
+              <mxPoint x="720" y="800" />
+            </Array>
+            <mxPoint x="615.25" y="809.6800000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-23" value="Provide Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="aCuNmFbfP8FAJ7ylMY8u-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="454.6999999999998" y="872" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-24" value="Provide Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="aCuNmFbfP8FAJ7ylMY8u-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="606.7999999999997" y="872" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-26" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="450" y="790" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aCuNmFbfP8FAJ7ylMY8u-27" value="User Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
